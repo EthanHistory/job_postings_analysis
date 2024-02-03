@@ -1,3 +1,3 @@
-[submodule "linkedin_scraper"]
-	path = linkedin_scraper
+[submodule "linkedin_scraper_module"]
+	path = linkedin_scraper_module
 	url = git@github.com:EthanHistory/linkedin_scraper.git
